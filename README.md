@@ -13,4 +13,14 @@ https://wordpress.org/showcase/archives/ - sites que são construidos com wordpr
 
 34% da internet tem wordpress
 
+Vantagem: - tem suporte a atualizações, de equipes voltadas só para um recurso específico que aplicações desenvolvidas do zero provavelmente não tem
+
+## Histórico
+
+2001 - Foi criado como uma ferramenta para automatização de criação de blog (b2)
+
+2003 - foi criado o Wordpress (que é um fork do b2)
+
+
+
 https://www.youtube.com/watch?v=JPR4OK4c35Q&list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2
